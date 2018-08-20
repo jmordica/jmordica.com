@@ -167,7 +167,7 @@ const Index = () => (
       <DividerMiddle bg="linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%)" speed={-0.2} offset={1.1} />
       <Content speed={0.4} offset={1}>
         <Inner>
-          <Title>Greatness level 1000</Title>
+          <Title>Level 1000</Title>
           <ProjectsWrapper>
             <ProjectCard
               title="VOXO"
